@@ -12,7 +12,7 @@ Proyecto web para poner en práctica lo aprendido hasta ahora. Es una primera p�
 ### Descripción del proyecto según el curso
 El objetivo de este proyecto es crear una web personal que muestre habilidades, experiencia e intereses. La web debería ser visualmente atractiva y fácil de navegar a la vez que muestra información relevante sobre uno mismo y nuestro "background". El sitio web debería ser construido únicamente usando HTML y CSS, **nada de JavaScript**
 
-###Screenshots :camera_flash:
+### Screenshots :camera_flash:
 
 ![Screenshot of the website.](https://github.com/lzmdev7/Personal-Site/blob/main/Personal%20Site%20Screenshot.png)
 ![Another screenshot where you can see the animation on the buttons](https://github.com/lzmdev7/Personal-Site/blob/main/Personal%20Site%20Screenshot.%202png.png)
