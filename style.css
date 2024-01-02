@@ -1,0 +1,47 @@
+body {
+    background-color: #75C2F6;
+}
+
+.FotoPerfil{
+    border-radius: 50%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.container > .contact-me {
+    display: block;
+    text-align: center;
+}
+
+.link-container {
+    padding: 0 0 5px;
+    margin-top: 50px;
+    background-color: #F4D160;
+}
+.link-container > footer > .copyright {
+    background-color: #F4D160;
+}
+
+.btn {
+    border-radius: 8px;
+    border-color: #F4D160;
+    transition: 1s ease-in-out;
+    box-shadow: 0 0 40px 40px #F4D160 inset, 0 0 0 0 #F4D160;
+    transition: all 150ms ease-in-out;
+        &:hover {
+            box-shadow: 0 0 10px 0 #F4D160 inset, 0 0 10px 4px #F4D160;
+            background-color: #FBEEAC;
+        }
+}
+
+.AboutMe {
+    display: block;
+    text-align: center;
+    text-decoration: underline;
+}
+
+  
